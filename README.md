@@ -1,27 +1,4 @@
-Group I CORRECT FOR DEMO OF LAB 1:
-Group: 32 **DONE**
-Group: 30 **DONE**
-Group: 29 + extra poängen
 
-=======
-VIA ZOOM
-GROUP: 18 ## They have a vague idea on whats going on, especially chris, kristin did most of the talking. 
-Group: 23 ## Basic solution, no issues **DONE**
-Group: 14 ## check theier code, the max speed was 18 or 19 **DONE**
-Group: 36 ## max speed said was 22. **DONE**
-Group: 51 ## simple and clear,
-Group: 60 ## i did the simu, works fine, a bit unclear when it came to section handler.
-Group: 63 ## group used only 4 semaphores, **DONE**
-Group: 50 ## no semaphores, check the code before rejection **DONE** NO REJECTION
-	
-group: 3  ## didnt hsow up **DONE**
-Group: 32 ## well done clear **DONE**
-Group: 20 ## reject. **DONE** 
-Group: 56 ## clear nad concise **DONE**
-Group: 13 ## clear **DONE**
-
-Group: 3 ## **SECOND ATTEMPT** ** CHECK FOR CODE**
- 
 ============
 
 The solutions are by John J. Camilleri.
@@ -164,3 +141,4 @@ Common reasons for rejection:
     synchronization between parts of the track that are independent in reality)
   * Insufficient synchronization, e.g. accessing a lock-guarded variable
     without taking the lock
+
